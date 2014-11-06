@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>153FB000-3D9E-41D7-BAF9-D95B2A0EDB77</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProjectX</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B22E549EFACC04F90B248030A10B32C3C79464E</key>
+		<string>https://github.com/bho4/ProjectX</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProjectX.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B22E549EFACC04F90B248030A10B32C3C79464E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bho4/ProjectX</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B22E549EFACC04F90B248030A10B32C3C79464E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B22E549EFACC04F90B248030A10B32C3C79464E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProjectX</string>
+		</dict>
+	</array>
+</dict>
+</plist>
