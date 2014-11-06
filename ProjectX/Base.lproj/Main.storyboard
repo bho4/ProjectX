@@ -42,10 +42,10 @@
                                 <exclude reference="IcM-En-58d"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="H3b-qB-Bz5"/>
                                 <exclude reference="Sg4-Ql-Hfa"/>
                                 <exclude reference="cRL-NS-dOj"/>
                                 <exclude reference="oU3-Rf-UPC"/>
-                                <exclude reference="H3b-qB-Bz5"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -54,10 +54,10 @@
                                 <include reference="IcM-En-58d"/>
                             </mask>
                             <mask key="constraints">
+                                <include reference="H3b-qB-Bz5"/>
                                 <include reference="Sg4-Ql-Hfa"/>
                                 <include reference="cRL-NS-dOj"/>
                                 <include reference="oU3-Rf-UPC"/>
-                                <include reference="H3b-qB-Bz5"/>
                             </mask>
                         </variation>
                     </view>
